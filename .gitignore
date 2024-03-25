@@ -2,3 +2,5 @@ notebooks/
 protenv/
 local_scripts/
 **/**/local_*
+.vscode/
+
